@@ -1,0 +1,9 @@
+{
+  "name": "ping",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "http": "*",
+    "time": "*"
+  }
+}
